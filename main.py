@@ -2,8 +2,8 @@ import streamlit as st
 import whisper
 from io import StringIO
 import os
-from pydub import AudioSegment
-from pydub.playback import play
+# from pydub import AudioSegment
+# from pydub.playback import play
 
 st.set_page_config('Transcritor', layout='centered')
 
